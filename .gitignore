@@ -1,0 +1,6 @@
+# Development env
+.idea
+
+# Cache files
+__pycache__/
+*.pyc
