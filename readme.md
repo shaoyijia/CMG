@@ -1,7 +1,7 @@
 # CMG: A Class-Mixed Generation Approach to Out-of-Distribution Detection
 
-This repository contains the code for our ECML'22 paper CMG: A Class-Mixed Generation Approach to Out-of-Distribution
-Detection by Mengyu Wang*, Yijia Shao*, Haowei Lin, Wenpeng Hu, and Bing Liu.
+This repository contains the code for our ECML'22 paper [CMG: A Class-Mixed Generation Approach to Out-of-Distribution
+Detection](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_531.pdf) by Mengyu Wang*, Yijia Shao*, Haowei Lin, Wenpeng Hu, and Bing Liu.
 
 ## Overview
 
@@ -165,3 +165,12 @@ See [./CSI+CMG](./CSI+CMG).
 
 We thank [CSI](https://github.com/alinlab/CSI) for providing downloaded links for their processed data and our "CSI+CMG"
 code is also based on their implementation.
+
+## Citation
+
+Please cite our paper if you use this code of parts of it:
+```
+@article{wangcmg,
+  title={CMG: A Class-Mixed Generation Approach to Out-of-Distribution Detection},
+  author={Wang, Mengyu and Shao, Yijia and Lin, Haowei and Hu, Wenpeng and Liu, Bing}
+```
